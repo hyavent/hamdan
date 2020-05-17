@@ -1,0 +1,2 @@
+# hamdan
+ai pengguna termux
